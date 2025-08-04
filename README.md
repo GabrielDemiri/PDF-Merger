@@ -31,11 +31,7 @@ You can select a folder containing PDF files, reorder them (default order is fro
 
 ### 🪟 If you **don't have Python installed**:
 
-You can download the **Windows `.exe` version** from the [Releases](https://github.com/your-username/pdf-merger/releases) section on GitHub and run it directly. No installation required.
-
-## 📁 Releases
-
-> 🧊 Go to the [Releases tab](https://github.com/your-username/pdf-merger/releases) to download the latest `.exe` version.
+You can download the **Windows `.exe` version** from the [Releases](https://github.com/gabrieldemiri/pdf-merger/releases) section on GitHub and run it directly. No installation required.
 
 ## 📷 Screenshots
 
@@ -48,6 +44,4 @@ You can download the **Windows `.exe` version** from the [Releases](https://gith
 - [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap)
 - [PyPDF2](https://pypi.org/project/PyPDF2/)
 
-## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
