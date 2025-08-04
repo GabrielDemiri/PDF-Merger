@@ -26,7 +26,7 @@ You can select a folder containing PDF files, reorder them (default order is fro
    ```
 3. Run the app:
    ```bash
-   python main.py or python3 main.py
+   python3 main.py
    ```
 
 ### 🪟 If you **don't have Python installed**:
@@ -35,7 +35,7 @@ You can download the **Windows `.exe` version** from the [Releases](https://gith
 
 ## 📷 Screenshots
 
-*(images/s.png)*
+![Main](images/s.png)
 
 ## 🛠 Built With
 
