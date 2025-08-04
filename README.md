@@ -11,7 +11,6 @@ You can select a folder containing PDF files, reorder them (default order is fro
 - Manually reorder files with up/down buttons
 - Set a custom output PDF name
 - Choose export location via file picker
-- Prevents invalid Windows file names (e.g., `COM1`, `AUX`, `?`, `/`, etc.)
 - Clean and modern interface with [ttkbootstrap](https://ttkbootstrap.readthedocs.io/)
 - Built with Python and PyPDF2
 
