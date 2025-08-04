@@ -23,3 +23,31 @@ You can select a folder containing PDF files, reorder them (default order is fro
 2. Install required libraries:
    ```bash
    pip install ttkbootstrap PyPDF2
+   ```
+3. Run the app:
+   ```bash
+   python pdf_merger.py
+   ```
+
+### 🪟 If you **don't have Python installed**:
+
+You can download the **Windows `.exe` version** from the [Releases](https://github.com/your-username/pdf-merger/releases) section on GitHub and run it directly. No installation required.
+
+## 📁 Releases
+
+> 🧊 Go to the [Releases tab](https://github.com/your-username/pdf-merger/releases) to download the latest `.exe` version.
+
+## 📷 Screenshots
+
+*(Add your screenshots here if available)*
+
+## 🛠 Built With
+
+- [Python](https://www.python.org/)
+- [tkinter](https://docs.python.org/3/library/tkinter.html)
+- [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap)
+- [PyPDF2](https://pypi.org/project/PyPDF2/)
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
