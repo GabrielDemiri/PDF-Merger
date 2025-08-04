@@ -1,2 +1,25 @@
-# PDF-Merger
-A simple and modern Python application to merge multiple PDF files with a user-friendly interface. Select a folder of PDFs, reorder them, name your output file, and choose where to export it. Built with tkinter, ttkbootstrap, and PyPDF2.
+# PDF Merger
+
+**PDF Merger** is a simple and modern desktop application that lets you merge multiple PDF files using a clean graphical interface.
+
+You can select a folder containing PDF files, reorder them (default order is from oldest to newest by creation date), set the output file name, and choose where to export the final merged PDF.
+
+## 🖥️ Features
+
+- Select a folder of PDFs
+- Automatically sorts by creation date (oldest to newest)
+- Manually reorder files with up/down buttons
+- Set a custom output PDF name
+- Choose export location via file picker
+- Prevents invalid Windows file names (e.g., `COM1`, `AUX`, `?`, `/`, etc.)
+- Clean and modern interface with [ttkbootstrap](https://ttkbootstrap.readthedocs.io/)
+- Built with Python and PyPDF2
+
+## 📦 How to Use
+
+### 🐍 If you have Python installed:
+
+1. Clone this repo or download the source code
+2. Install required libraries:
+   ```bash
+   pip install ttkbootstrap PyPDF2
